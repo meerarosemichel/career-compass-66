@@ -13,6 +13,10 @@ export default {
       },
     },
     extend: {
+      fontFamily: {
+        display: ['Space Grotesk', 'sans-serif'],
+        body: ['Inter', 'sans-serif'],
+      },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
@@ -46,6 +50,11 @@ export default {
         card: {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
+        },
+        confusion: {
+          low: "hsl(var(--confusion-low))",
+          medium: "hsl(var(--confusion-medium))",
+          high: "hsl(var(--confusion-high))",
         },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
