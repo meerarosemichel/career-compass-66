@@ -55,7 +55,7 @@ export const domains: Domain[] = [
     name: 'Mobile App Development',
     type: 'technical',
     description: 'Create apps for iOS and Android devices.',
-    videoId: 'dFlBBMOU8WA',
+    videoId: 'VPvVD8t02U8',
     careers: ['iOS Developer', 'Android Developer', 'React Native Developer'],
     roadmap: ['Learn programming basics', 'Choose a platform (iOS/Android)', 'Learn Swift or Kotlin', 'Study mobile UI patterns', 'Build and publish an app', 'Learn cross-platform tools'],
     longTermFit: 'Good Long-Term Fit',
